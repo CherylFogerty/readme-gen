@@ -1,3 +1,4 @@
+
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
     ## Description
@@ -29,5 +30,6 @@
     ## Questions
     if you have questions about this project, visit [Github](https://github.com/CherylFogerty)
     or email cfogerty@aol.com.
-
-
+    
+Video link to walkthrough video:
+https://youtu.be/wqtaB67YeSw
